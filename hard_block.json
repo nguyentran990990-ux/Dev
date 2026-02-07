@@ -1,0 +1,52 @@
+{
+  "abuse_words": [
+    "đm", "dmm", "dm",
+    "cc", "cặc",
+    "địt", "dit",
+    "ngu", "óc chó", "oc cho",
+    "con chó", "cho de",
+    "con me", "me may", "bo may",
+    "rác",
+    "lừa đảo", "lua dao",
+    "bot ngu",
+    "đĩ", "điếm",
+    "fuck", "fuck u",
+    "shit", "asshole",
+    "đủ má"
+  ],
+
+  "sexual_words": [
+    "sex", "xxx", "porn", "jav",
+    "đụ", "chịch",
+    "hiếp",
+    "ấu dâm",
+    "loạn luân"
+  ],
+
+  "regex": [
+    "(c|k)[\\W_]*c[\\W_]*c+",
+    "(d|đ)[\\W_]*i[\\W_]*t+",
+    "(d|đ)[\\W_]*m+",
+    "(d|đ)[\\W_]*m[\\W_]*e+",
+
+    "m[\\W_]*e[\\W_]*m[\\W_]*a[\\W_]*y",
+    "b[\\W_]*o[\\W_]*m[\\W_]*a[\\W_]*y",
+    "c[\\W_]*o[\\W_]*n[\\W_]*m[\\W_]*e",
+
+    "o[\\W_]*c[\\W_]*c[\\W_]*h[\\W_]*o",
+    "n[\\W_]*g[\\W_]*u",
+    "b[\\W_]*o[\\W_]*t[\\W_]*n[\\W_]*g[\\W_]*u",
+
+    "l[\\W_]*u[\\W_]*a[\\W_]*d[\\W_]*a[\\W_]*o",
+
+    "a[\\W_]*n[\\W_]*c[\\W_]*u[\\W_]*t",
+    "c[\\W_]*ặ[\\W_]*c",
+    "l[\\W_]*ồ[\\W_]*n",
+    "b[\\W_]*u[\\W_]*ồ[\\W_]*i",
+    "đ[\\W_]*ĩ",
+
+    "f[\\W_]*u[\\W_]*c[\\W_]*k",
+    "s[\\W_]*e[\\W_]*x",
+    "p[\\W_]*o[\\W_]*r[\\W_]*n"
+  ]
+}
